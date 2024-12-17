@@ -6,7 +6,7 @@ permalink: /publication/IEEE_MWSCAS_2024_Paper
 excerpt: 'Seminal paper on a non-invasive, multimodal, configurable, hemodynamic monitoring wearable device capable of onboard processing.'
 date: 2024-08-11
 venue: '2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://academicpages.github.io/files/IEEE_MWSCAS_2024_Slides.pdf'
 paperurl: 'http://jermyeworm.github.io/files/IEEE_MWSCAS_2024_Paper.pdf'
 citation: 'J. Yun, S. Nzama, and S. Shah, “Towards a Broadly Configurable Wearable Device for Continuous Hemodynamic Monitoring,” in <i>2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)</i>, Aug. 2024, pp. 1309–1313, iSSN: 1558-3899. [Online]. Available: https://ieeexplore.ieee.org/document/10658959'
 ---
