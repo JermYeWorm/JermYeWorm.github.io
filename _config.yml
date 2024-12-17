@@ -21,7 +21,7 @@ repository               : "JermYeWorm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profilepic.png"
   name             : "Jeremy Yun"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate electrical engineering student with full HW/SW system design experience. Interested in energy-efficient wearable devices for physiological monitoring, analog and mixed-signal IC design, and real-time embedded processing."
