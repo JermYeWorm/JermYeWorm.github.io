@@ -1,9 +1,9 @@
 ---
 title: "Towards a Broadly Configurable Wearable Device for Continuous Hemodynamic Monitoring"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/IEEE_MWSCAS_2024_Paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Seminal paper on a non-invasive, multimodal, configurable, hemodynamic monitoring wearable device capable of onboard processing.'
 date: 2024-08-11
 venue: '2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
