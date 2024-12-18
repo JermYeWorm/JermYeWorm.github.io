@@ -17,6 +17,6 @@ I recently gave a spotlight funding pitch at the 2024 National SBIR Innovation S
 
 Previously, I interned at the Johns Hopkins University Applied Physics Laboratory as a spacecraft power engineer, designing and testing analog electronics for NASA's Dragonfly rotorcraft mission to Titan. Prior to that, I worked on spacecraft systems software at the US Naval Research Lab under a Secret clearance.
 
-Before college, I was a Bio-MEMS research assistant under Professor Abraham Lee, where I worked on a novel intracellular delivery microfluidic platform. Check out the paper [here](https://doi.org/10.1002/advs.202102021).
+Before college, I was a Bio-MEMS research assistant under Professor Abraham Lee, where I worked on a novel intracellular delivery microfluidic platform ([AESOP](https://doi.org/10.1002/advs.202102021)).
 
 In my free time, I enjoy golf, cooking, and hiking. I am also the President of the UMD Juggling Club! Check us out [here](https://www.instagram.com/umdjugglingclub/)!
