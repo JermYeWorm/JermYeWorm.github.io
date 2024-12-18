@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download Jeremy's CV [here]()
+Download Jeremy's CV [here](https://jermyeworm.github.io/files/Jeremy_Yun_CV.pdf).
 
 
 
