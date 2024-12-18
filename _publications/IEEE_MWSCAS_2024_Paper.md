@@ -3,7 +3,7 @@ title: "Towards a Broadly Configurable Wearable Device for Continuous Hemodynami
 collection: publications
 category: conferences
 permalink: /publication/IEEE_MWSCAS_2024_Paper
-excerpt: 'Seminal paper on a non-invasive, multimodal, configurable, hemodynamic monitoring wearable device capable of onboard processing.'
+excerpt: 'Seminal paper on a non-invasive, multimodal, configurable, hemodynamic monitoring wearable device capable of onboard processing. Selected as a top contribution to the conference and invited to a Special Issue in the IEEE Open Journal of Circuits and Systems.'
 date: 2024-08-11
 venue: '2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)'
 slidesurl: 'http://jermyeworm.github.io/files/IEEE_MWSCAS_2024_Slides.pdf'
