@@ -4,4 +4,4 @@ excerpt: "Open-source, multimodal, configurable, highly-integrated wearable plat
 collection: portfolio
 ---
 
-Open-source <a href="https://github.com/JermYeWorm/Hemo-Monitoring-Wearable>GitHub</a> repo.
+Open-source [GitHub](https://github.com/JermYeWorm/Hemo-Monitoring-Wearable) repo.
