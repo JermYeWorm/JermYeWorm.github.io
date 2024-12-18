@@ -21,7 +21,7 @@ repository               : "JermYeWorm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.png"
+  avatar           : "Profile_APL.png"
   name             : "Jeremy Yun"
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineer, BioCAS Researcher"
