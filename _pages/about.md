@@ -9,7 +9,7 @@ redirect_from:
 
 I'm currently an undergraduate electrical engineering student at the University of Maryland. 
 
-I'm interested in energy-efficient wearable devices for physiological monitoring, analog and mixed-signal IC design, and real-time embedded ML processing for diagnostics. I have experience with full-stack end-to-end hardware and software system bring-up. 
+I'm interested in energy-efficient wearable devices for physiological monitoring, analog and mixed-signal IC design, and real-time embedded ML processing for diagnostics. I have experience with full-stack end-to-end hardware and software systems bring-up. 
 
 I am currently doing research in the Shah Lab at the University of Maryland, leading a project on a novel impedance plethysmography monitoring wearable device for surgical site monitoring of dialysis patients. Check out our seminal paper [here](https://doi.org/10.1109/MWSCAS60917.2024.10658959).
 
