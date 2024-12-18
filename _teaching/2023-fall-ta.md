@@ -8,6 +8,4 @@ date: 2023-08-28
 location: "College Park, MD, USA"
 ---
 
-Gave substitute lectures to 75 student class.
-
-Led bi-weekly recitations and office hours to teach undergraduates C programming. Personally developed teaching content, demos, HW + project rubrics, and exams.
+Gave substitute lectures to 75 student class. Led bi-weekly recitations and office hours to teach undergraduates C programming. Personally developed teaching content, demos, HW + project rubrics, and exams.
