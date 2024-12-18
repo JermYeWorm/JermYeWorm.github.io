@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Introduction to Programming Concepts for Engineers"
+type: "ENEE140: Introduction to Programming Concepts for Engineers"
 permalink: /teaching2023-fall-ta
 venue: "University of Maryland, Department of Electrical and Computer Engineering"
 date: 2023-08-28
