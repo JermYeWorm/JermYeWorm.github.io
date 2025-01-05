@@ -8,4 +8,4 @@ date: 2024-08-11
 location: "Springfield, MA"
 ---
 
-[[Slide Deck Here](http://jermyeworm.github.io/files/IEEE_MWSCAS_2024_Slides.pdf)] Introduced a novel wireless, noninvasive, multimodal, hemodynamic monitoring wearable device built for blood monitoring. Presented at IEEE MWSCAS 2024.
+[[Slide Deck Here](http://jermyeworm.github.io/files/IEEE_MWSCAS_2024_Slides.pdf)] Introduced a novel wireless, noninvasive, multimodal, hemodynamic monitoring wearable device built for blood monitoring. Presented at IEEE MWSCAS 2024. ![alt text](../images/mwscas_pres.png)
