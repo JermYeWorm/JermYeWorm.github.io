@@ -15,7 +15,7 @@ I am currently doing research in the Shah Lab at the University of Maryland, lea
 
 I recently gave a spotlight funding pitch at the 2024 National SBIR Innovation Summit in Austin, TX as part of the Defense TechConnect to commercialize our research into a hemorrhagic shock prediction device. Check out our pitch deck [here](http://jermyeworm.github.io/files/DTC_2024_Pitch_Slide_Deck.pdf).
 
-Previously, I interned at the Johns Hopkins University Applied Physics Laboratory as a spacecraft power engineer, designing and testing analog electronics for NASA's Dragonfly rotorcraft mission to Titan. Prior to that, I worked on spacecraft systems software at the US Naval Research Lab under a Secret clearance.
+Previously, I interned at the Johns Hopkins University Applied Physics Laboratory as a spacecraft power engineer, designing and testing analog electronics for NASA's Dragonfly rotorcraft mission to Titan. Check out this [article](https://jermyeworm.github.io/portfolio/3_injection_transformer/) I wrote during this time. Prior to that, I worked on spacecraft systems software at the US Naval Research Lab under a Secret clearance.
 
 Before college, I was a Bio-MEMS research assistant under Professor Abraham Lee, where I worked on a novel intracellular delivery microfluidic platform ([AESOP](https://doi.org/10.1002/advs.202102021)).
 
