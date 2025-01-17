@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate electrical engineering student at the University of Maryland. 
+Hi everyone! I'm an undergraduate electrical engineering student at the University of Maryland. 
 
-I'm interested in energy-efficient wearable devices for physiological monitoring, analog and mixed-signal IC design, and real-time embedded ML processing for diagnostics. I have experience with full-stack end-to-end hardware and software systems bring-up. 
+My interests include analog and mixed-signal IC design, energy-efficient systems for physiological monitoring in resource constrained environments, and real-time embedded ML processing for diagnostics. I have experience with full-stack end-to-end hardware and software bring-up. 
 
-I am currently doing research in the Shah Lab at the University of Maryland, leading a project on a novel impedance plethysmography monitoring wearable device for surgical site monitoring of dialysis patients. Check out our seminal paper [here](https://doi.org/10.1109/MWSCAS60917.2024.10658959).
+Currently, I'm doing research in the Shah Lab at the University of Maryland, leading a project on a novel impedance plethysmography monitoring wearable device for surgical site monitoring of dialysis patients. Check out our seminal paper [here](https://doi.org/10.1109/MWSCAS60917.2024.10658959). I recently gave a spotlight funding pitch at the 2024 National SBIR Innovation Summit in Austin, TX as part of the Defense TechConnect to commercialize our research into a hemorrhagic shock prediction device. Take a look at the pitch deck [here](http://jermyeworm.github.io/files/DTC_2024_Pitch_Slide_Deck.pdf).
 
-I recently gave a spotlight funding pitch at the 2024 National SBIR Innovation Summit in Austin, TX as part of the Defense TechConnect to commercialize our research into a hemorrhagic shock prediction device. Check out our pitch deck [here](http://jermyeworm.github.io/files/DTC_2024_Pitch_Slide_Deck.pdf).
-
-Previously, I interned at the Johns Hopkins University Applied Physics Laboratory as a spacecraft power engineer, designing and testing analog electronics for NASA's Dragonfly rotorcraft mission to Titan. Check out this [article](https://jermyeworm.github.io/portfolio/3_injection_transformer/) I wrote during this time. Prior to that, I worked on spacecraft systems software at the US Naval Research Lab under a Secret clearance.
+I am also working full-time as a spacecraft engineering co-op, helping design, build, and test electronics for deep-space NASA missions at the Johns Hopkins Applied Physics Laboratory. Missions I've worked include NASA's future Dragonfly rotorcraft mission to Titan and Europa Clipper (launched!). Check out this [article](https://jermyeworm.github.io/portfolio/3_injection_transformer/) I wrote during my time here. Prior to this, I worked on spacecraft systems software at the US Naval Research Lab under a Secret clearance.
 
 Before college, I was a Bio-MEMS research assistant under Professor Abraham Lee, where I worked on a novel intracellular delivery microfluidic platform ([AESOP](https://doi.org/10.1002/advs.202102021)).
 
