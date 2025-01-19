@@ -9,7 +9,7 @@ redirect_from:
 
 Hi everyone! I'm an undergraduate electrical engineering student at the University of Maryland. 
 
-My interests include analog and mixed-signal IC design, energy-efficient systems for physiological monitoring in resource constrained environments, and real-time embedded ML processing for diagnostics. I have experience with full-stack end-to-end hardware and software bring-up. 
+My interests include analog and mixed-signal IC design, energy-efficient systems for physiological monitoring in resource constrained environments, and real-time embedded ML processing for diagnostics. I have experience with full-stack end-to-end hardware and software bring-up from ultra-low power wearable medical devices to kilowatt power spacecraft systems. 
 
 Currently, I'm doing research in the Shah Lab at the University of Maryland, leading a project on a novel impedance plethysmography monitoring wearable device for surgical site monitoring of dialysis patients. Check out our seminal paper [here](https://doi.org/10.1109/MWSCAS60917.2024.10658959). I recently gave a spotlight funding pitch at the 2024 National SBIR Innovation Summit in Austin, TX as part of the Defense TechConnect to commercialize our research into a hemorrhagic shock prediction device. Take a look at the pitch deck [here](http://jermyeworm.github.io/files/DTC_2024_Pitch_Slide_Deck.pdf).
 
