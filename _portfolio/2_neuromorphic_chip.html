@@ -1,0 +1,33 @@
+---
+title: "Low-Power Wide Linear Output Range CMOS Biopotential Amplifier"
+excerpt: "A brain-inspired ASIC that detects and classifies blinks from EEG signals to monitor cognitive states in high-risk situations.<br/><br/><img src='/images/BioV_Amp.png'>"
+collection: portfolio
+---
+
+Sleep quality, attention monitoring, and real-time cognitive state assessment are increasingly critical in both research 
+and consumer applications. However, sleep patterns and attention levels are difficult to quantify accurately using conventional 
+methods. Eye movements, particularly blink duration and intensity, serve as valuable physiological indicators of these states. 
+This project addresses the need for an efficient, real-time, low-power system capable of decoding such biosignals, with 
+applications ranging from sleep and attention monitoring in high-risk environments (e.g., driving, flying) to cognitive 
+performance analysis, education, and neurofeedback training. Additionally, the neuromorphic system holds promise for biological 
+stimulation, such as nerve or muscle activation, and could aid in the treatment of mental health and neurodegenerative 
+disorders through targeted neuromodulation. By using spiking neural networks and biologically-inspired signal processing, 
+the platform offers a scalable, energy-efficient solution suited for wearable devices, advancing the field of continuous-time 
+brain-machine interfaces.
+
+<br><br>
+
+To realize this vision, the project employs a custom mixed-signal integrated circuit designed using the 1.8V SkyWater 130nm 
+open-source CMOS process. The chip is designed to capture Electroencephalography (EEG) signals noninvasively through input 
+electrodes placed on the scalp, perform on-chip analog signal conditioning and delta-modulation-based spike encoding, and 
+route the resulting spike trains into a Spiking Neural Network (SNN) for real-time classification. The front-end architecture 
+was inspired by open-source systems like the OpenBCI Cyton, but is extended into a fully integrated hardware platform 
+optimized for low power operation, minimal area overhead, and onboard processing. Analog front-end circuits were developed 
+to condition and encode the EEG signals efficiently, while custom SNN layers were trained to classify blink characteristics, 
+such as distinguishing between soft and hard blinks based on spike amplitude ratios or temporal dynamics. The aim of the 
+platform is to support high input-channel throughput with minimal power consumption, making it ideal for embedded, or mobile 
+biosignal monitoring systems, and aims to contribute an open-source hardware reference for biologically-inspired computation. 
+Full system characterization including layout was performed using the Cadence Design Suite.
+<br><br>
+
+<a href="https://expo.umd.edu/projects/spring-2025/blink-twice-help">Poster Presentation</a>
