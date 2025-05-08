@@ -1,8 +1,14 @@
 ---
 title: "Neuromorphic CMOS Spike Encoder and Spiking Neural Network Chip"
-excerpt: "A brain-inspired ASIC that detects and classifies blinks from EEG signals to monitor cognitive states in high-risk situations.<br/><br/><img src='/images/neural_interface_architecture.png'>"
+excerpt: "A brain-inspired ASIC that detects and classifies blinks from EEG signals to monitor cognitive states in high-risk situations.<br/><br/><img src='/images/neural_interface_chip.png'>"
 collection: portfolio
 ---
+
+<img src='/images/neural_interface_architecture.png'><br>
+System Architecture
+<br><br>
+
+<a href="https://expo.umd.edu/projects/spring-2025/blink-twice-help">Poster Presentation</a>
 
 Sleep quality, attention monitoring, and real-time cognitive state assessment are increasingly critical in both research 
 and consumer applications. However, sleep patterns and attention levels are difficult to quantify accurately using conventional 
@@ -27,7 +33,10 @@ to condition and encode the EEG signals efficiently, while custom SNN layers wer
 such as distinguishing between soft and hard blinks based on spike amplitude ratios or temporal dynamics. The aim of the 
 platform is to support high input-channel throughput with minimal power consumption, making it ideal for embedded, or mobile 
 biosignal monitoring systems, and aims to contribute an open-source hardware reference for biologically-inspired computation. 
-Full system characterization including layout was performed using the Cadence Design Suite.
+Full system characterization including simulations, physical design (layout), design rule check (DRC), parameter extraction, 
+and layout vs. schematic (LVS) was performed using the Cadence Design Suite.
 <br><br>
 
-<a href="https://expo.umd.edu/projects/spring-2025/blink-twice-help">Poster Presentation</a>
+<img src='/images/neural_interface_chip.png'><br>
+Full chip layout on 1mm x 1mm pad frame; total of >25,000 transistors. Verified 158.4 uW for the analog section and 20mW for 
+the digital section.
