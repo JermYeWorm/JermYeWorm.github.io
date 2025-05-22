@@ -1,6 +1,6 @@
 ---
-title: "Neuromorphic CMOS Spike Encoder and Spiking Neural Network Chip"
-excerpt: "A brain-inspired ASIC that detects and classifies blinks from EEG signals to monitor cognitive states in high-risk situations.<br/><br/><img src='/images/neural_interface_chip.png'>"
+title: "Blink Twice For Help"
+excerpt: "A Brain-Inspired Spike Encoder and SNN SoC for Continuous Cognitive State Monitoring<br/><br/><img src='/images/full_chip_layout.png'>"
 collection: portfolio
 ---
 
@@ -8,35 +8,42 @@ collection: portfolio
 <i>System Architecture</i>
 <br><br>
 
-Sleep quality, attention monitoring, and real-time cognitive state assessment are increasingly critical in both research 
-and consumer applications. However, sleep patterns and attention levels are difficult to quantify accurately using conventional 
-methods. Eye movements, particularly blink duration and intensity, serve as valuable physiological indicators of these states. 
-This project addresses the need for an efficient, real-time, low-power system capable of decoding such biosignals, with 
-applications ranging from sleep and attention monitoring in high-risk environments (e.g., driving, flying) to cognitive 
-performance analysis, education, and neurofeedback training. Additionally, the neuromorphic system holds promise for biological 
-stimulation, such as nerve or muscle activation, and could aid in the treatment of mental health and neurodegenerative 
-disorders through targeted neuromodulation. By using spiking neural networks and biologically-inspired signal processing, 
-the platform offers a scalable, energy-efficient solution suited for wearable devices, advancing the field of continuous-time 
-brain-machine interfaces.
+Sleep quality, attentional state, and real-time cognitive assessment are increasingly central to both clinical research
+and consumer health technologies. Conventional methods for
+monitoring these parameters often lack the temporal resolution,
+accuracy, or adaptability required for real-time applications. Eye
+movements, specifically blink duration and intensity, provide
+a promising, non-invasive biosignal for continuous tracking of
+cognitive states. In this work, we present a mixed-signal neuromorphic System-on-Chip (SoC) designed for real-time, low-power decoding of
+blink-based electroencephalogram (EEG) biosignals. Designed
+using the open-source 1.8V SkyWater 130nm CMOS process,
+the system integrates analog front-end circuitry with delta-modulation-based spike encoding and on-chip classification via a
+Spiking Neural Network (SNN). Our design supports applications
+in sleep and attention monitoring, cognitive workload analysis,
+and potential neuromodulation therapies for neurodegenerative
+and mental health disorders. The platform operates with high
+computational efficiency, making it ideal for future scaling into
+wearable and embedded systems. System-level validation was
+conducted using full-custom layout, simulation with real EEG
+blink data, and verification via the Cadence Design Suite. The
+final chip occupies 0.742 mm^2 of a 1.6 mm x 1.6 mm die,
+consisting of 276,542 transistors, and consumes 63.5 μW in the
+analog domain and 43 μW in the digital domain.
 
 <br><br>
-<img src='/images/neural_interface_chip.png'><br>
-<i>Full chip layout on 1mm x 1mm pad frame; total of >25,000 transistors. Verified 158.4 uW for the analog section and 20mW for 
-the digital section.</i>
+
+<a href="https://github.com/JermYeWorm/Blink-Twice-For-Help">GitHub Repo</a>
+
 <br><br>
 
-To realize this vision, the project employs a custom mixed-signal integrated circuit designed using the 1.8V SkyWater 130nm 
-open-source CMOS process. The chip is designed to capture Electroencephalography (EEG) signals noninvasively through input 
-electrodes placed on the scalp, perform on-chip analog signal conditioning and delta-modulation-based spike encoding, and 
-route the resulting spike trains into a Spiking Neural Network (SNN) for real-time classification. The front-end architecture 
-was inspired by open-source systems like the OpenBCI Cyton, but is extended into a fully integrated hardware platform 
-optimized for low power operation, minimal area overhead, and onboard processing. Analog front-end circuits were developed 
-to condition and encode the EEG signals efficiently, while custom SNN layers were trained to classify blink characteristics, 
-such as distinguishing between soft and hard blinks based on spike amplitude ratios or temporal dynamics. The aim of the 
-platform is to support high input-channel throughput with minimal power consumption, making it ideal for embedded, or mobile 
-biosignal monitoring systems, and aims to contribute an open-source hardware reference for biologically-inspired computation. 
-Full system characterization including simulations, physical design (layout), design rule check (DRC), parameter extraction, 
-and layout vs. schematic (LVS) was performed using the Cadence Design Suite.
-<br><br>
+[<a href="http://jermyeworm.github.io/files/Neural_Interface_Full_Paper.pdf">Full Paper</a>]
+<br>
+<object class="pdf" 
+    data="/files/IEEE_MWSCAS_2024_Paper.pdf"
+    width="800"
+    height="800">
+</object>
 
-<a href="https://expo.umd.edu/projects/spring-2025/blink-twice-help">Poster Presentation</a><br><br>
+
+<br><br>
+<img src='/images/full_chip_layout.png'><br>
