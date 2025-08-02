@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi everyone! I'm an undergraduate Electrical Engineering student at the University of Maryland with a strong interest in both electrical and biomedical engineering. This website highlights some of my recent work to demonstrate the breadth and depth of my experience and interests.
+Hi everyone! I'm an undergraduate Electrical Engineering student at the University of Maryland with a strong interest in both electrical and biomedical engineering. This website includes some projects to highlight my recent work.
 
 My core technical interests include analog and mixed-signal IC design, energy-efficient computing for resource-constrained environments, and real-time embedded signal processing for physiological monitoring. I have a background with end-to-end engineering across diverse domains, including semiconductor chip design, medical device development, and spacecraft systems. I'm also interested in translating cutting-edge research into practical solutions, with experience in technology commercialization, customer discovery, translational grants, and clinical collaborations.
 
